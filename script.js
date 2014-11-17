@@ -48,3 +48,6 @@ function drawVectorLayer(data){
 //we can ask jquery to fetch the json for us, and pass it as parameter (ie "data") to our drawVectorLayer function..
 
 jQuery.getJSON("data.geojson", drawVectorLayer);
+
+//lets check our checklist: 1 done 2 done 3 done 4 done, lets do 5 n 6 now..
+//for that, we'll tweak the drawVectorLayer function a bit..
