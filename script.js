@@ -49,5 +49,48 @@ function drawVectorLayer(data){
 
 jQuery.getJSON("data.geojson", drawVectorLayer);
 
+
+
+
+
 //lets check our checklist: 1 done 2 done 3 done 4 done, lets do 5 n 6 now..
 //for that, we'll tweak the drawVectorLayer function a bit..
+
+//lets comment out the function definition from above and uncomment the one fro below..
+
+
+//it's just minor changes to the code from before..
+
+//we now have a function that does something to each vector layer that gets drawn using the geojson data..
+//that soething includes binding a popup to each layer that opens up when the vector feature is clicked,
+//and changing the layer's visual styling (colors and tranparency and border thickness n all that..)
+
+/*function doSomethingOnEachFeature(feature, layer){
+    layer.bindPopup("This is a popup.");  //first try this..
+    //layer.bindPopup(feature.properties.name);  //then this..
+    //then this:
+    //layer.bindPopup(feature.properties.name+"<br/>"+feature.properties["operator:type"]+" "+feature.properties.amenity+"<br/>"+feature.properties["student:count"]+" students studied here in 2013<br/>"+"Source of Information: "+feature.properties.source); //bind a popup with feature's geojson notation as its content..the popup opens up when user clicks on the feature..
+    
+    var style = {  //create a styling for each layer
+        color: "#0000ff",
+        fillColor: "#ff0000",
+        weight: 4
+    };
+    
+    layer.setStyle(style);  //set layer styling..
+    
+}
+
+//now tell our drawVectorLayer function what needs to be done to each layer while it is being converted from geojson data to a leaflet map layer..
+function drawVectorLayer(data){
+    
+        var options = {  //to tell this function what to do to each feature while adding it as a vector layer to our map, we need to set it as an option parameter for leaflet's function that creates vector layers fro geojson data..
+            onEachFeature: doSomethingOnEachFeature
+        };
+        
+	vectorsFromGeojson = L.geoJson(data, options);  //we have our geojson layer ready, but wait..we need to add it to the map to be able to see it..
+	map.addLayer(vectorsFromGeojson);
+}*/
+
+
+//check our checklist again..5 done, 6 done..!!
