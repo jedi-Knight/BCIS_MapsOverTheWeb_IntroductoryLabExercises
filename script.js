@@ -22,7 +22,7 @@ map = L.map("map");
 //wether to add an attribution or copyright info about the map tiles..we'll talk about the other parameters later,
 //or you can also look them up yourselves at leaflet.com/reference.html
 osmTiles = L.tileLayer('http://otile1.mqcdn.com/tiles/1.0.0/map/{z}/{x}/{y}.png', {
-            attribution: 'Map data &copy; <a href="http://openstreetmap.org">OpenStreetMap</a> contributors | Tiles Courtesy of <a href="http://www.mapquest.com/" target="_blank">MapQuest</a> <img src="http://developer.mapquest.com/content/osm/mq_logo.png">'
+            attribution: 'Map data &copy; <a href="http://openstreetmap.org">OpenStreetMap</a> contributors | Tiles Courtesy of <a href="http://www.mapquest.com/" target="_blank">MapQuest</a> <img src="http://developer.mapquest.com/content/osm/mq_logo.png"><br/><a href="https://github.com/jedi-Knight/BCIS_MapsOverTheWeb_IntroductoryLabExercises">Class notes and example code</a> courtesy of <a href="http://www.kathmandulivinglabs.org">Kathmandu Living Labs</a>'
         });
 
 //npw that the map variable knows it's a map, the tile variable knows its a base layer,
