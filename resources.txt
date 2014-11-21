@@ -18,3 +18,18 @@ digital humanitarian network
 tomnod
 haiti earthquake 2010
 typhoon haiyan 2013
+postgres
+postgis
+open data kit
+odk collect
+ona.io
+mapping party
+state of the map
+open data day
+gis day
+postgis day
+
+mapcss
+mapnik
+geoserver
+
