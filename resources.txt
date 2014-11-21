@@ -33,4 +33,4 @@ Google search keywords for exploration:
     mapnik
     geoserver
 
-    state of the map nepal
+    state of the map nepal being organized on february 2015
