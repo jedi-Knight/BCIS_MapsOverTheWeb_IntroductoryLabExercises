@@ -1,35 +1,36 @@
 Leaflet
 learning materials:
-http://leafletjs.com/examples.html
+    http://leafletjs.com/examples.html
 
 API reference:
-http://leafletjs.com/reference.html
+    http://leafletjs.com/reference.html
 
 
 Google search keywords for exploration:
-open cities project
-irevolution.net
-humanitarian openstreetmap team (HOT)
-crisis mappers
-mapbox
-geoweek
-standby taskforce
-digital humanitarian network
-tomnod
-haiti earthquake 2010
-typhoon haiyan 2013
-postgres
-postgis
-open data kit
-odk collect
-ona.io
-mapping party
-state of the map
-open data day
-gis day
-postgis day
+    open cities project
+    irevolution.net
+    humanitarian openstreetmap team (HOT)
+    crisis mappers
+    mapbox
+    geoweek
+    standby taskforce
+    digital humanitarian network
+    tomnod
+    haiti earthquake 2010
+    typhoon haiyan 2013
+    postgres
+    postgis
+    open data kit
+    odk collect
+    ona.io
+    mapping party
+    state of the map
+    open data day
+    gis day
+    postgis day
 
-mapcss
-mapnik
-geoserver
+    mapcss
+    mapnik
+    geoserver
 
+    state of the map nepal
