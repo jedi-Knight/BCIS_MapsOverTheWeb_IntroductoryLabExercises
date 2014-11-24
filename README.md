@@ -1,5 +1,5 @@
-BCIS_MapsOverTheWeb_IntroductoryLabExercises
-============================================
+BCIS VIII GIS elective :  Maps over the Web : Lab excercise 1
+=============================================================
 + **See the demo in action (upto step 4) at** http://rawgit.com/jedi-Knight/BCIS_MapsOverTheWeb_IntroductoryLabExercises/master/index.html
 
 + **See the demo in action (completed exercise) at** http://rawgit.com/jedi-Knight/BCIS_MapsOverTheWeb_IntroductoryLabExercises/master/completed-exercise/index.html
