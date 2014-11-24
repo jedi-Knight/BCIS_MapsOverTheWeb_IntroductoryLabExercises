@@ -29,10 +29,14 @@ Explore
 ### Google (or yahoo or bing or whatever) search keywords for exploration:
     kathmandu living labs
     open cities project
+    ushahidi
+    mapkibera
     irevolution.net
     humanitarian openstreetmap team (HOT)
     crisis mappers
     mapbox
+    geofabrik
+    osmgeoweek
     geoweek
     standby taskforce
     digital humanitarian network
