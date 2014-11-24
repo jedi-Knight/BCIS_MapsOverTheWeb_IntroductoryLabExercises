@@ -8,9 +8,9 @@ Learning material / Resources
 =============================
 ##Leaflet
 -------
-### Learning material: http://leafletjs.com/examples.html
+**Learning material:** http://leafletjs.com/examples.html
 
-### API reference: http://leafletjs.com/reference.html
+**API reference:** http://leafletjs.com/reference.html
 
 Explore
 =======
