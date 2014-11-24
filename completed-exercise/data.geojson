@@ -1,0 +1,1909 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-turbo",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2014-11-17T18:08:03Z",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "way/181573414",
+      "properties": {
+        "@id": "way/181573414",
+        "amenity": "college",
+        "building_count": "1",
+        "isced:level": "college",
+        "name": "Bridgewater College",
+        "operator:type": "private",
+        "personnel:count": "72",
+        "source": "OpenDRI survey",
+        "student:count": "250",
+        "@timestamp": "2013-08-18T05:57:47Z",
+        "@version": 7,
+        "@changeset": 17391497,
+        "@user": "amritkarma",
+        "@uid": 680067
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              85.3521528,
+              27.6962464
+            ],
+            [
+              85.352349,
+              27.6961328
+            ],
+            [
+              85.3525368,
+              27.6963813
+            ],
+            [
+              85.3523506,
+              27.6965019
+            ],
+            [
+              85.3521528,
+              27.6962464
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/181573533",
+      "properties": {
+        "@id": "way/181573533",
+        "amenity": "college",
+        "building_count": "1",
+        "isced:level": "college",
+        "name": "Ace Institute of Management",
+        "operator:type": "private",
+        "personnel:count": "70",
+        "source": "OpenDRI survey",
+        "student:count": "480",
+        "@timestamp": "2013-08-18T05:57:42Z",
+        "@version": 6,
+        "@changeset": 17391497,
+        "@user": "amritkarma",
+        "@uid": 680067
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              85.3474266,
+              27.6992052
+            ],
+            [
+              85.3477992,
+              27.6989425
+            ],
+            [
+              85.3478909,
+              27.6989592
+            ],
+            [
+              85.3479417,
+              27.6990087
+            ],
+            [
+              85.3479774,
+              27.6990364
+            ],
+            [
+              85.348001,
+              27.6990571
+            ],
+            [
+              85.3480129,
+              27.6990686
+            ],
+            [
+              85.3478345,
+              27.6993787
+            ],
+            [
+              85.3476279,
+              27.6992956
+            ],
+            [
+              85.3474266,
+              27.6992052
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/183256312",
+      "properties": {
+        "@id": "way/183256312",
+        "amenity": "college",
+        "designation": "college",
+        "@timestamp": "2013-03-05T04:14:34Z",
+        "@version": 4,
+        "@changeset": 15254293,
+        "@user": "Manoj-OSMNepal",
+        "@uid": 781054
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              85.337253,
+              27.6944065
+            ],
+            [
+              85.3376203,
+              27.694331
+            ],
+            [
+              85.3376363,
+              27.6943921
+            ],
+            [
+              85.337269,
+              27.6944675
+            ],
+            [
+              85.337253,
+              27.6944065
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/183564077",
+      "properties": {
+        "@id": "way/183564077",
+        "amenity": "college",
+        "building_count": "4",
+        "isced:level": "college",
+        "name": "Apex College",
+        "operator:type": "private",
+        "personnel:count": "70",
+        "source": "OpenDRI survey",
+        "student:count": "900",
+        "@timestamp": "2013-09-12T18:18:40Z",
+        "@version": 8,
+        "@changeset": 17804695,
+        "@user": "Sazal(Solaris)",
+        "@uid": 864593
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              85.338178,
+              27.6987777
+            ],
+            [
+              85.338292,
+              27.6991987
+            ],
+            [
+              85.3380352,
+              27.6992975
+            ],
+            [
+              85.3380928,
+              27.6994319
+            ],
+            [
+              85.338024,
+              27.6994613
+            ],
+            [
+              85.3378712,
+              27.6994454
+            ],
+            [
+              85.3377215,
+              27.6994586
+            ],
+            [
+              85.3376143,
+              27.6994826
+            ],
+            [
+              85.337597,
+              27.6994506
+            ],
+            [
+              85.3375603,
+              27.6993752
+            ],
+            [
+              85.337525,
+              27.6993045
+            ],
+            [
+              85.337698,
+              27.6992523
+            ],
+            [
+              85.3377794,
+              27.6992243
+            ],
+            [
+              85.3378308,
+              27.6991831
+            ],
+            [
+              85.3378899,
+              27.6991243
+            ],
+            [
+              85.3378271,
+              27.6988921
+            ],
+            [
+              85.338178,
+              27.6987777
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/188434753",
+      "properties": {
+        "@id": "way/188434753",
+        "amenity": "college",
+        "building": "college",
+        "name": "Old Whitehouse International College",
+        "@timestamp": "2013-07-30T04:51:25Z",
+        "@version": 3,
+        "@changeset": 17147762,
+        "@user": "Helina",
+        "@uid": 1068220
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              85.3373716,
+              27.6940993
+            ],
+            [
+              85.337354,
+              27.6940256
+            ],
+            [
+              85.3372277,
+              27.6940491
+            ],
+            [
+              85.3372092,
+              27.6939714
+            ],
+            [
+              85.3372927,
+              27.6939559
+            ],
+            [
+              85.3374027,
+              27.6939354
+            ],
+            [
+              85.3374245,
+              27.6940274
+            ],
+            [
+              85.3375407,
+              27.6940058
+            ],
+            [
+              85.3375548,
+              27.6940652
+            ],
+            [
+              85.3374952,
+              27.6940763
+            ],
+            [
+              85.3373716,
+              27.6940993
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/191861041",
+      "properties": {
+        "@id": "way/191861041",
+        "amenity": "college",
+        "building_count": "4",
+        "isced:level": "college",
+        "name": "Baneshwor Campus",
+        "operator:type": "community",
+        "phone": "014620332",
+        "source": "OpenDRI survey",
+        "@timestamp": "2013-08-18T05:57:46Z",
+        "@version": 5,
+        "@changeset": 17391497,
+        "@user": "amritkarma",
+        "@uid": 680067
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              85.3477622,
+              27.6887356
+            ],
+            [
+              85.3479025,
+              27.6885861
+            ],
+            [
+              85.3479272,
+              27.688539
+            ],
+            [
+              85.3479574,
+              27.6885182
+            ],
+            [
+              85.3479905,
+              27.6885325
+            ],
+            [
+              85.3481192,
+              27.6888009
+            ],
+            [
+              85.3481434,
+              27.6889601
+            ],
+            [
+              85.3480968,
+              27.6894114
+            ],
+            [
+              85.3480254,
+              27.6894873
+            ],
+            [
+              85.3479515,
+              27.6895101
+            ],
+            [
+              85.3475387,
+              27.6890086
+            ],
+            [
+              85.3475551,
+              27.6890032
+            ],
+            [
+              85.3476058,
+              27.6889723
+            ],
+            [
+              85.3477445,
+              27.6888878
+            ],
+            [
+              85.3477622,
+              27.6887356
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/192307560",
+      "properties": {
+        "@id": "way/192307560",
+        "amenity": "college",
+        "building_count": "3",
+        "isced:level": "college",
+        "name": "Global College of Management",
+        "operator:type": "private",
+        "personnel:count": "103",
+        "phone": "4488312",
+        "source": "OpenDRI survey",
+        "student:count": "1215",
+        "@timestamp": "2013-08-18T05:57:54Z",
+        "@version": 6,
+        "@changeset": 17391497,
+        "@user": "amritkarma",
+        "@uid": 680067
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              85.3421059,
+              27.6987963
+            ],
+            [
+              85.3419701,
+              27.6988356
+            ],
+            [
+              85.3419269,
+              27.6987291
+            ],
+            [
+              85.3419379,
+              27.6986942
+            ],
+            [
+              85.3420617,
+              27.698677
+            ],
+            [
+              85.3420301,
+              27.6984937
+            ],
+            [
+              85.3424603,
+              27.6983869
+            ],
+            [
+              85.3424948,
+              27.6984882
+            ],
+            [
+              85.3426229,
+              27.6984946
+            ],
+            [
+              85.3426382,
+              27.6985608
+            ],
+            [
+              85.3426809,
+              27.6986149
+            ],
+            [
+              85.3424539,
+              27.6987088
+            ],
+            [
+              85.3421059,
+              27.6987963
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/204906259",
+      "properties": {
+        "@id": "way/204906259",
+        "amenity": "college",
+        "name": "Excel International College",
+        "@timestamp": "2013-07-30T10:30:13Z",
+        "@version": 4,
+        "@changeset": 17150896,
+        "@user": "Helina",
+        "@uid": 1068220
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              85.3353264,
+              27.693943
+            ],
+            [
+              85.3354293,
+              27.6939142
+            ],
+            [
+              85.3354705,
+              27.6940294
+            ],
+            [
+              85.3353676,
+              27.6940582
+            ],
+            [
+              85.3353455,
+              27.6939964
+            ],
+            [
+              85.3353264,
+              27.693943
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/206839568",
+      "properties": {
+        "@id": "way/206839568",
+        "amenity": "college",
+        "building": "college",
+        "building:adjacency": "free_standing",
+        "building:bay:x": "2",
+        "building:bay:y": "5",
+        "building:levels": "6",
+        "building:overhang": "no",
+        "building:ownership": "rent",
+        "building:soft_storey": "no",
+        "building:structure": "non_engineered_reinforced_concrete",
+        "building_count": "1",
+        "column:size": "9x9",
+        "floor:material": "concrete",
+        "isced:level": "college",
+        "name": "International College of Hospitality management",
+        "occupant:day": "22",
+        "occupant:evening": "0",
+        "occupant:morning": "272",
+        "occupant:night": "6",
+        "oid": "1",
+        "operator:type": "private",
+        "personnel:count": "22",
+        "phone": "014107834",
+        "physical_condition": "good",
+        "retrofit": "no",
+        "roof:material": "concrete",
+        "roof:shape": "flat",
+        "seismic_resistance": "no",
+        "shape:elevation": "setback",
+        "shape:plan": "rectangular",
+        "source": "OpenDRI survey",
+        "start_date": "2000-2013",
+        "student:count": "250",
+        "@timestamp": "2013-09-01T08:41:12Z",
+        "@version": 8,
+        "@changeset": 17614894,
+        "@user": "amritkarma",
+        "@uid": 680067
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              85.3403787,
+              27.6924863
+            ],
+            [
+              85.340331,
+              27.6923328
+            ],
+            [
+              85.3404166,
+              27.6923119
+            ],
+            [
+              85.3404644,
+              27.6924654
+            ],
+            [
+              85.3403787,
+              27.6924863
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/207267417",
+      "properties": {
+        "@id": "way/207267417",
+        "amenity": "college",
+        "building_count": "2",
+        "isced:level": "college",
+        "name": "SchEMS",
+        "operator:type": "private",
+        "personnel:count": "110",
+        "phone": "01-4482475",
+        "source": "OpenDRI survey",
+        "student:count": "450",
+        "@timestamp": "2013-08-18T05:58:20Z",
+        "@version": 3,
+        "@changeset": 17391497,
+        "@user": "amritkarma",
+        "@uid": 680067
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              85.3372217,
+              27.6943474
+            ],
+            [
+              85.3371816,
+              27.69414
+            ],
+            [
+              85.3375893,
+              27.6940735
+            ],
+            [
+              85.3376385,
+              27.6942305
+            ],
+            [
+              85.3374016,
+              27.6942637
+            ],
+            [
+              85.337412,
+              27.6943164
+            ],
+            [
+              85.3372217,
+              27.6943474
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/207269660",
+      "properties": {
+        "@id": "way/207269660",
+        "amenity": "college",
+        "building_count": "3",
+        "isced:level": "college",
+        "name": "Societal Higher Secondary School",
+        "operator:type": "private",
+        "personnel:count": "80",
+        "phone": "01-4488274",
+        "source": "OpenDRI survey",
+        "student:count": "600",
+        "@timestamp": "2013-10-18T05:51:29Z",
+        "@version": 7,
+        "@changeset": 18413567,
+        "@user": "amritkarma",
+        "@uid": 680067
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              85.3357914,
+              27.6928663
+            ],
+            [
+              85.3360808,
+              27.6927486
+            ],
+            [
+              85.3361895,
+              27.6929943
+            ],
+            [
+              85.3359901,
+              27.693055
+            ],
+            [
+              85.3359384,
+              27.6929464
+            ],
+            [
+              85.335836,
+              27.6929647
+            ],
+            [
+              85.3357914,
+              27.6928663
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/214073216",
+      "properties": {
+        "@id": "way/214073216",
+        "amenity": "college",
+        "name": "Ambition College(Affiliated to TU)",
+        "@timestamp": "2014-09-22T10:55:57Z",
+        "@version": 3,
+        "@changeset": 25600196,
+        "@user": "Helina",
+        "@uid": 1068220
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              85.3351908,
+              27.6951804
+            ],
+            [
+              85.3351626,
+              27.6951002
+            ],
+            [
+              85.3352156,
+              27.6950914
+            ],
+            [
+              85.3352229,
+              27.695119
+            ],
+            [
+              85.3352408,
+              27.6951153
+            ],
+            [
+              85.3352577,
+              27.6951693
+            ],
+            [
+              85.3351908,
+              27.6951804
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/219358260",
+      "properties": {
+        "@id": "way/219358260",
+        "amenity": "college",
+        "building_count": "2",
+        "isced:level": "higher_secondary",
+        "name": "Sauriya Education Foundation",
+        "operator:type": "private",
+        "personnel:count": "32",
+        "source": "OpenDRI survey",
+        "student:count": "200",
+        "@timestamp": "2013-08-18T05:58:19Z",
+        "@version": 3,
+        "@changeset": 17391497,
+        "@user": "amritkarma",
+        "@uid": 680067
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              85.3508601,
+              27.6910572
+            ],
+            [
+              85.3509132,
+              27.6910898
+            ],
+            [
+              85.351093,
+              27.6912203
+            ],
+            [
+              85.3512347,
+              27.6914317
+            ],
+            [
+              85.3510777,
+              27.6916092
+            ],
+            [
+              85.3508715,
+              27.6914788
+            ],
+            [
+              85.35095,
+              27.6913412
+            ],
+            [
+              85.3505885,
+              27.6913658
+            ],
+            [
+              85.3505345,
+              27.6911934
+            ],
+            [
+              85.3506457,
+              27.6911485
+            ],
+            [
+              85.3508601,
+              27.6910572
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/219358404",
+      "properties": {
+        "@id": "way/219358404",
+        "amenity": "college",
+        "building_count": "2",
+        "isced:level": "college",
+        "name": "Himalayan Institute of Science and Technology",
+        "operator:type": "private",
+        "personnel:count": "23",
+        "source": "OpenDRI survey",
+        "student:count": "278",
+        "@timestamp": "2013-10-18T08:55:19Z",
+        "@version": 5,
+        "@changeset": 18415754,
+        "@user": "GautamPratik",
+        "@uid": 1700096
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              85.3493818,
+              27.6910455
+            ],
+            [
+              85.3495493,
+              27.6909825
+            ],
+            [
+              85.3497308,
+              27.6909705
+            ],
+            [
+              85.349907,
+              27.6910107
+            ],
+            [
+              85.3498772,
+              27.6911258
+            ],
+            [
+              85.3505131,
+              27.691364
+            ],
+            [
+              85.3504379,
+              27.6915114
+            ],
+            [
+              85.3503729,
+              27.6916226
+            ],
+            [
+              85.3503537,
+              27.6916453
+            ],
+            [
+              85.349673,
+              27.691441
+            ],
+            [
+              85.3493818,
+              27.6910455
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/219619367",
+      "properties": {
+        "@id": "way/219619367",
+        "amenity": "college",
+        "building_count": "2",
+        "history": "retrieved using undelete JOSM plugin",
+        "isced:level": "college",
+        "name": "International School of Management and Technology",
+        "operator:type": "private",
+        "personnel:count": "25",
+        "phone": "4485278",
+        "source": "OpenDRI survey",
+        "student:count": "300",
+        "@timestamp": "2013-08-18T05:57:57Z",
+        "@version": 5,
+        "@changeset": 17391497,
+        "@user": "amritkarma",
+        "@uid": 680067
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              85.3490279,
+              27.6885999
+            ],
+            [
+              85.3491828,
+              27.6886796
+            ],
+            [
+              85.3491734,
+              27.6887961
+            ],
+            [
+              85.3490466,
+              27.688798
+            ],
+            [
+              85.3490488,
+              27.6888642
+            ],
+            [
+              85.3489155,
+              27.6888584
+            ],
+            [
+              85.3489108,
+              27.6887309
+            ],
+            [
+              85.3490233,
+              27.6887237
+            ],
+            [
+              85.3490279,
+              27.6885999
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/219644145",
+      "properties": {
+        "@id": "way/219644145",
+        "amenity": "college",
+        "building_count": "3",
+        "isced:level": "college",
+        "name": "Apollo International College",
+        "operator:type": "private",
+        "personnel:count": "20",
+        "phone": "4474845",
+        "source": "OpenDRI survey",
+        "student:count": "250",
+        "@timestamp": "2013-08-18T05:57:44Z",
+        "@version": 4,
+        "@changeset": 17391497,
+        "@user": "amritkarma",
+        "@uid": 680067
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              85.3352113,
+              27.6944679
+            ],
+            [
+              85.3353513,
+              27.6947076
+            ],
+            [
+              85.3352641,
+              27.6947737
+            ],
+            [
+              85.3350712,
+              27.6947847
+            ],
+            [
+              85.3349717,
+              27.694545
+            ],
+            [
+              85.3352113,
+              27.6944679
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/219759757",
+      "properties": {
+        "@id": "way/219759757",
+        "amenity": "college",
+        "building_count": "2",
+        "isced:level": "college",
+        "name": "KFA Business School",
+        "operator:type": "private",
+        "personnel:count": "75",
+        "source": "OpenDRI survey",
+        "student:count": "180",
+        "@timestamp": "2013-10-19T01:12:20Z",
+        "@version": 4,
+        "@changeset": 18427929,
+        "@user": "GautamPratik",
+        "@uid": 1700096
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              85.3377383,
+              27.6955561
+            ],
+            [
+              85.3377225,
+              27.6953622
+            ],
+            [
+              85.3378539,
+              27.6953577
+            ],
+            [
+              85.3378504,
+              27.6954457
+            ],
+            [
+              85.3379208,
+              27.6954437
+            ],
+            [
+              85.337929,
+              27.6955605
+            ],
+            [
+              85.3377383,
+              27.6955561
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/219893803",
+      "properties": {
+        "@id": "way/219893803",
+        "amenity": "college",
+        "building": "college",
+        "building:adjacency": "free_standing",
+        "building:bay:x": "5",
+        "building:bay:y": "3",
+        "building:levels": "3",
+        "building:overhang": "no",
+        "building:ownership": "rent",
+        "building:soft_storey": "yes",
+        "building:structure": "load_bearing_brick_wall_in_cement_mortar",
+        "building_count": "1",
+        "floor:material": "concrete",
+        "isced:level": "college",
+        "name": "Sunway International Business School",
+        "occupant:day": "0",
+        "occupant:evening": "0",
+        "occupant:morning": "110",
+        "occupant:night": "0",
+        "oid": "1",
+        "operator": "Sunway International Business School",
+        "operator:type": "private",
+        "personnel:count": "32",
+        "phone": "014464524",
+        "physical_condition": "average",
+        "retrofit": "no",
+        "roof:material": "concrete",
+        "roof:shape": "flat",
+        "seismic_resistance": "no",
+        "shape:elevation": "regular",
+        "shape:plan": "rectangular",
+        "source": "OpenDRI survey",
+        "start_date": "1960-1990",
+        "student:count": "212",
+        "@timestamp": "2013-09-01T08:41:15Z",
+        "@version": 9,
+        "@changeset": 17614894,
+        "@user": "amritkarma",
+        "@uid": 680067
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              85.3376783,
+              27.6963465
+            ],
+            [
+              85.3376645,
+              27.696177
+            ],
+            [
+              85.337722,
+              27.6961733
+            ],
+            [
+              85.3377358,
+              27.6963428
+            ],
+            [
+              85.3376783,
+              27.6963465
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/219895242",
+      "properties": {
+        "@id": "way/219895242",
+        "amenity": "college",
+        "building_count": "5",
+        "isced:level": "college",
+        "name": "The Aryan School",
+        "operator:type": "private",
+        "personnel:count": "20",
+        "phone": "4485146",
+        "source": "OpenDRI survey",
+        "student:count": "200",
+        "@timestamp": "2013-08-18T05:58:24Z",
+        "@version": 4,
+        "@changeset": 17391497,
+        "@user": "amritkarma",
+        "@uid": 680067
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              85.3381129,
+              27.6962041
+            ],
+            [
+              85.3380667,
+              27.6960428
+            ],
+            [
+              85.338136,
+              27.6960272
+            ],
+            [
+              85.3382687,
+              27.6959974
+            ],
+            [
+              85.3382496,
+              27.6959307
+            ],
+            [
+              85.3384359,
+              27.6958888
+            ],
+            [
+              85.3384716,
+              27.6960133
+            ],
+            [
+              85.3384807,
+              27.6960113
+            ],
+            [
+              85.3385121,
+              27.696121
+            ],
+            [
+              85.3383727,
+              27.6961524
+            ],
+            [
+              85.3381147,
+              27.6962103
+            ],
+            [
+              85.3381129,
+              27.6962041
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/219899054",
+      "properties": {
+        "@id": "way/219899054",
+        "amenity": "college",
+        "building_count": "2",
+        "isced:level": "college",
+        "name": "Premier College (BBS Block)",
+        "operator:type": "private",
+        "personnel:count": "38",
+        "source": "OpenDRI survey",
+        "student:count": "600",
+        "@timestamp": "2013-10-19T01:15:43Z",
+        "@version": 4,
+        "@changeset": 18427955,
+        "@user": "GautamPratik",
+        "@uid": 1700096
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              85.3368535,
+              27.6920483
+            ],
+            [
+              85.3368501,
+              27.6920836
+            ],
+            [
+              85.3368598,
+              27.6921312
+            ],
+            [
+              85.3369169,
+              27.6921298
+            ],
+            [
+              85.3369427,
+              27.6923336
+            ],
+            [
+              85.3368057,
+              27.6923662
+            ],
+            [
+              85.3367299,
+              27.6923868
+            ],
+            [
+              85.3367001,
+              27.6922814
+            ],
+            [
+              85.3366777,
+              27.6921794
+            ],
+            [
+              85.3366453,
+              27.6920826
+            ],
+            [
+              85.336755,
+              27.6920522
+            ],
+            [
+              85.3368535,
+              27.6920483
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/220295599",
+      "properties": {
+        "@id": "way/220295599",
+        "amenity": "college",
+        "building_count": "2",
+        "isced:level": "college",
+        "name": "CIST (Central Institute of Science and Technology)",
+        "operator:type": "private",
+        "personnel:count": "25",
+        "phone": "4485307",
+        "source": "OpenDRI survey",
+        "student:count": "310",
+        "@timestamp": "2013-10-19T01:42:34Z",
+        "@version": 4,
+        "@changeset": 18428134,
+        "@user": "GautamPratik",
+        "@uid": 1700096
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              85.339991,
+              27.6934784
+            ],
+            [
+              85.3399313,
+              27.6933129
+            ],
+            [
+              85.3399098,
+              27.6932563
+            ],
+            [
+              85.3399058,
+              27.6932492
+            ],
+            [
+              85.339997,
+              27.6932216
+            ],
+            [
+              85.3400619,
+              27.6932135
+            ],
+            [
+              85.3400842,
+              27.6932175
+            ],
+            [
+              85.3401201,
+              27.6932386
+            ],
+            [
+              85.3401753,
+              27.6933562
+            ],
+            [
+              85.3401993,
+              27.6934411
+            ],
+            [
+              85.3399914,
+              27.6934892
+            ],
+            [
+              85.339991,
+              27.6934784
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/222753364",
+      "properties": {
+        "@id": "way/222753364",
+        "amenity": "college",
+        "building_count": "6",
+        "isced:level": "college",
+        "name": "Brookfield College",
+        "operator": "Brooklfield College",
+        "operator:type": "private",
+        "personnel:count": "25",
+        "source": "OpenDRI survey",
+        "student:count": "175",
+        "@timestamp": "2013-10-19T04:17:33Z",
+        "@version": 6,
+        "@changeset": 18428726,
+        "@user": "GautamPratik",
+        "@uid": 1700096
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              85.3489383,
+              27.6977582
+            ],
+            [
+              85.3487837,
+              27.6978222
+            ],
+            [
+              85.3486617,
+              27.6976818
+            ],
+            [
+              85.348805,
+              27.6975631
+            ],
+            [
+              85.3489383,
+              27.6977582
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/223089904",
+      "properties": {
+        "@id": "way/223089904",
+        "amenity": "college",
+        "building_count": "1",
+        "isced:level": "college",
+        "name": "Santowna Memorial Multiple College",
+        "operator:type": "private",
+        "personnel:count": "26",
+        "phone": "014107573",
+        "source": "OpenDRI survey",
+        "student:count": "400",
+        "@timestamp": "2013-08-18T05:58:19Z",
+        "@version": 3,
+        "@changeset": 17391497,
+        "@user": "amritkarma",
+        "@uid": 680067
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              85.3450171,
+              27.6892038
+            ],
+            [
+              85.3450107,
+              27.6891037
+            ],
+            [
+              85.3451007,
+              27.6890992
+            ],
+            [
+              85.3451071,
+              27.6891992
+            ],
+            [
+              85.3450171,
+              27.6892038
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/223106674",
+      "properties": {
+        "@id": "way/223106674",
+        "amenity": "college",
+        "building_count": "3",
+        "isced:level": "college",
+        "name": "School of Geomatics",
+        "operator:type": "private",
+        "personnel:count": "20",
+        "source": "OpenDRI survey",
+        "student:count": "180",
+        "@timestamp": "2013-08-18T05:58:20Z",
+        "@version": 5,
+        "@changeset": 17391497,
+        "@user": "amritkarma",
+        "@uid": 680067
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              85.3425758,
+              27.6978253
+            ],
+            [
+              85.3424836,
+              27.6976611
+            ],
+            [
+              85.3426076,
+              27.6975913
+            ],
+            [
+              85.3427869,
+              27.6975385
+            ],
+            [
+              85.3428453,
+              27.6977058
+            ],
+            [
+              85.3425758,
+              27.6978253
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/223490607",
+      "properties": {
+        "@id": "way/223490607",
+        "amenity": "college",
+        "building_count": "5",
+        "isced:level": "college",
+        "name": "Liverpool International College",
+        "operator:type": "private",
+        "personnel:count": "150",
+        "phone": "01-4781230, 4782509",
+        "source": "OpenDRI survey",
+        "student:count": "1600",
+        "@timestamp": "2013-08-18T05:58:04Z",
+        "@version": 3,
+        "@changeset": 17391497,
+        "@user": "amritkarma",
+        "@uid": 680067
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              85.3345741,
+              27.6875631
+            ],
+            [
+              85.3345989,
+              27.6876887
+            ],
+            [
+              85.3347861,
+              27.6876811
+            ],
+            [
+              85.3347918,
+              27.6878071
+            ],
+            [
+              85.3348961,
+              27.6877877
+            ],
+            [
+              85.3349267,
+              27.6879287
+            ],
+            [
+              85.3347755,
+              27.6879523
+            ],
+            [
+              85.3348024,
+              27.6881171
+            ],
+            [
+              85.334645,
+              27.6881336
+            ],
+            [
+              85.3346304,
+              27.6880194
+            ],
+            [
+              85.3344627,
+              27.6879904
+            ],
+            [
+              85.3344612,
+              27.6880804
+            ],
+            [
+              85.3343196,
+              27.6880825
+            ],
+            [
+              85.3343992,
+              27.6877903
+            ],
+            [
+              85.334281,
+              27.6877105
+            ],
+            [
+              85.334133,
+              27.6878209
+            ],
+            [
+              85.3339611,
+              27.687671
+            ],
+            [
+              85.3339659,
+              27.6876628
+            ],
+            [
+              85.3340287,
+              27.6875981
+            ],
+            [
+              85.3341657,
+              27.6874671
+            ],
+            [
+              85.3342737,
+              27.6875589
+            ],
+            [
+              85.3344201,
+              27.687445
+            ],
+            [
+              85.3344776,
+              27.6874754
+            ],
+            [
+              85.3345401,
+              27.6873666
+            ],
+            [
+              85.3346228,
+              27.6874065
+            ],
+            [
+              85.3346261,
+              27.6874425
+            ],
+            [
+              85.3346711,
+              27.6874638
+            ],
+            [
+              85.3345741,
+              27.6875631
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/223500010",
+      "properties": {
+        "@id": "way/223500010",
+        "amenity": "college",
+        "building_count": "2",
+        "isced:level": "college",
+        "name": "Kantipur College of Management and Information Technology",
+        "operator:type": "private",
+        "personnel:count": "45",
+        "source": "OpenDRI survey",
+        "student:count": "400",
+        "@timestamp": "2013-08-18T05:57:59Z",
+        "@version": 3,
+        "@changeset": 17391497,
+        "@user": "amritkarma",
+        "@uid": 680067
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              85.3405723,
+              27.6986463
+            ],
+            [
+              85.3405061,
+              27.6984478
+            ],
+            [
+              85.3406765,
+              27.6984159
+            ],
+            [
+              85.3407429,
+              27.6984027
+            ],
+            [
+              85.3407801,
+              27.6985489
+            ],
+            [
+              85.3407925,
+              27.6985954
+            ],
+            [
+              85.3405723,
+              27.6986463
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/226971573",
+      "properties": {
+        "@id": "way/226971573",
+        "amenity": "college",
+        "building_count": "3",
+        "isced:level": "college",
+        "name": "New Summit College",
+        "operator:type": "private",
+        "personnel:count": "55",
+        "source": "OpenDRI survey",
+        "student:count": "705",
+        "@timestamp": "2013-08-18T05:58:11Z",
+        "@version": 3,
+        "@changeset": 17391497,
+        "@user": "amritkarma",
+        "@uid": 680067
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              85.3393375,
+              27.6989779
+            ],
+            [
+              85.3395193,
+              27.698896
+            ],
+            [
+              85.339689,
+              27.6988534
+            ],
+            [
+              85.3397268,
+              27.6991191
+            ],
+            [
+              85.339653,
+              27.6991875
+            ],
+            [
+              85.3394164,
+              27.6992011
+            ],
+            [
+              85.3393375,
+              27.6989779
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/227122518",
+      "properties": {
+        "@id": "way/227122518",
+        "amenity": "college",
+        "building_count": "3",
+        "isced:level": "college",
+        "name": "Nobel College",
+        "operator:type": "private",
+        "personnel:count": "360",
+        "source": "OpenDRI survey",
+        "student:count": "1100",
+        "@timestamp": "2013-08-18T05:58:12Z",
+        "@version": 3,
+        "@changeset": 17391497,
+        "@user": "amritkarma",
+        "@uid": 680067
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              85.3471243,
+              27.6979536
+            ],
+            [
+              85.3471929,
+              27.6977745
+            ],
+            [
+              85.3474567,
+              27.6978871
+            ],
+            [
+              85.347383,
+              27.6980509
+            ],
+            [
+              85.3471243,
+              27.6979536
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/240183554",
+      "properties": {
+        "@id": "way/240183554",
+        "amenity": "college",
+        "building_count": "6",
+        "isced:level": "college",
+        "name": "Brooklfield College",
+        "operator": "Brooklfield College",
+        "operator:type": "private",
+        "personnel:count": "25",
+        "source": "OpenDRI survey",
+        "student:count": "175",
+        "@timestamp": "2013-10-01T19:52:34Z",
+        "@version": 1,
+        "@changeset": 18133161,
+        "@user": "landfahrer",
+        "@uid": 1069176
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              85.3491864,
+              27.6976175
+            ],
+            [
+              85.3491058,
+              27.6974868
+            ],
+            [
+              85.3492855,
+              27.6973468
+            ],
+            [
+              85.349155,
+              27.697124
+            ],
+            [
+              85.3493427,
+              27.6970096
+            ],
+            [
+              85.3496304,
+              27.6968343
+            ],
+            [
+              85.3497341,
+              27.6972046
+            ],
+            [
+              85.3499776,
+              27.6974284
+            ],
+            [
+              85.3499377,
+              27.6974624
+            ],
+            [
+              85.3496943,
+              27.6972386
+            ],
+            [
+              85.3496157,
+              27.6973174
+            ],
+            [
+              85.349469,
+              27.697411
+            ],
+            [
+              85.3493635,
+              27.6974783
+            ],
+            [
+              85.3491864,
+              27.6976175
+            ]
+          ]
+        ]
+      }
+    }
+  ]
+}

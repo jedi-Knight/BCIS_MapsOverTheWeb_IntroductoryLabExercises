@@ -2,6 +2,8 @@ BCIS_MapsOverTheWeb_IntroductoryLabExercises
 ============================================
 + **See the demo in action (upto step 4) at** http://rawgit.com/jedi-Knight/BCIS_MapsOverTheWeb_IntroductoryLabExercises/master/index.html
 
++ **See the demo in action (completed exercise) at** http://rawgit.com/jedi-Knight/BCIS_MapsOverTheWeb_IntroductoryLabExercises/master/completed-exercise/index.html
+
 Learning material / Resources
 =============================
 ##Leaflet

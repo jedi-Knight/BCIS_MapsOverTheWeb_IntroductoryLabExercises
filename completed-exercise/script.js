@@ -39,33 +39,7 @@ map.setView([27.69877,85.337941], 15);
  //once jquery fetches the geojson file from our web server and assigns its contents to the named "data" that we will pass as a parameter to the function..
 
 
-function drawVectorLayer(data){
-	vectorsFromGeojson = L.geoJson(data);  //we have our geojson layer ready, but wait..we need to add it to the map to be able to see it..
-	map.addLayer(vectorsFromGeojson);
-}
-
-//now that we know what we'r gonna do with the geojson data once it arrives (ie, our drawVectorLayer function will draw the features from the geojson data on our map),
-//we can ask jquery to fetch the json for us, and pass it as parameter (ie "data") to our drawVectorLayer function..
-
-jQuery.getJSON("data.geojson", drawVectorLayer);
-
-
-
-
-
-//lets check our checklist: 1 done 2 done 3 done 4 done, lets do 5 n 6 now..
-//for that, we'll tweak the drawVectorLayer function a bit..
-
-//lets comment out the function definition from above and uncomment the one fro below..
-
-
-//it's just minor changes to the code from before..
-
-//we now have a function that does something to each vector layer that gets drawn using the geojson data..
-//that soething includes binding a popup to each layer that opens up when the vector feature is clicked,
-//and changing the layer's visual styling (colors and tranparency and border thickness n all that..)
-
-/*function doSomethingOnEachFeature(feature, layer){
+function doSomethingOnEachFeature(feature, layer){
     layer.bindPopup("This is a popup.");  //first try this..
     //layer.bindPopup(feature.properties.name);  //then this..
     //then this:
@@ -90,7 +64,15 @@ function drawVectorLayer(data){
         
 	vectorsFromGeojson = L.geoJson(data, options);  //we have our geojson layer ready, but wait..we need to add it to the map to be able to see it..
 	map.addLayer(vectorsFromGeojson);
-}*/
+}
 
+//we now have a function that does something to each vector layer that gets drawn using the geojson data..
+//that soething includes binding a popup to each layer that opens up when the vector feature is clicked,
+//and changing the layer's visual styling (colors and tranparency and border thickness n all that..)
 
-//check our checklist again..5 done, 6 done..!! :D
+//now that we know what we'r gonna do with the geojson data once it arrives (ie, our drawVectorLayer function will draw the features from the geojson data on our map),
+//we can ask jquery to fetch the json for us, and pass it as parameter (ie "data") to our drawVectorLayer function..
+
+jQuery.getJSON("data.geojson", drawVectorLayer);
+
+//done..!! :D
