@@ -40,10 +40,10 @@ map.setView([27.69877,85.337941], 15);
 
 
 function doSomethingOnEachFeature(feature, layer){
-    layer.bindPopup("This is a popup.");  //first try this..
+    //layer.bindPopup("This is a popup.");  //first try this..
     //layer.bindPopup(feature.properties.name);  //then this..
     //then this:
-    //layer.bindPopup(feature.properties.name+"<br/>"+feature.properties["operator:type"]+" "+feature.properties.amenity+"<br/>"+feature.properties["student:count"]+" students studied here in 2013<br/>"+"Source of Information: "+feature.properties.source); //bind a popup with feature's geojson notation as its content..the popup opens up when user clicks on the feature..
+    layer.bindPopup(feature.properties.name+"<br/>"+feature.properties["operator:type"]+" "+feature.properties.amenity+"<br/>"+feature.properties["student:count"]+" students studied here in 2013<br/>"+"Source of Information: "+feature.properties.source); //bind a popup with feature's geojson notation as its content..the popup opens up when user clicks on the feature..
     
     var style = {  //create a styling for each layer
         color: "#0000ff",
