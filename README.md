@@ -7,7 +7,6 @@ BCIS VIII GIS elective :  Maps over the Web : Lab excercise 1
 Learning material / Resources
 =============================
 ##Leaflet
--------
 **Learning material:** http://leafletjs.com/examples.html
 
 **API reference:** http://leafletjs.com/reference.html
