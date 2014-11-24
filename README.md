@@ -1,6 +1,6 @@
 BCIS_MapsOverTheWeb_IntroductoryLabExercises
 ============================================
-See the demo in action (upto step 4) at http://rawgit.com/jedi-Knight/BCIS_MapsOverTheWeb_IntroductoryLabExercises/master/index.html
++ **See the demo in action (upto step 4) at** http://rawgit.com/jedi-Knight/BCIS_MapsOverTheWeb_IntroductoryLabExercises/master/index.html
 
 Learning material / Resources
 =============================
@@ -15,18 +15,14 @@ Explore
 ##Exploration material (use these if you want to learn more)
 
 ### To learn more about Kathmandu Living Labs
-www.kathmandulivinglabs.org
-www.kathmandulivinglabs.org/news
-www.kathmandulivinglabs.org/blog
++ www.kathmandulivinglabs.org
++ www.kathmandulivinglabs.org/news
++ www.kathmandulivinglabs.org/blog
 
-More learning material at:
-www.kathmandulivinglabs.org/resource
++ More learning material at: www.kathmandulivinglabs.org/resource
 
-Facebook page:
-facebook.com/kathmandulivinglabs
-
-Twitter handle:
-@ktmlivinglabs
++ Facebook page: www.facebook.com/kathmandulivinglabs
++ Twitter: www.twitter.com/ktmlivinglabs
 
 ### Google (or yahoo or bing or whatever) search keywords for exploration:
     kathmandu living labs
