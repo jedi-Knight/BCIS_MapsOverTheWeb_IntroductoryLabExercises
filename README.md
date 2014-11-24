@@ -4,21 +4,17 @@ See the demo in action (upto step 4) at http://rawgit.com/jedi-Knight/BCIS_MapsO
 
 Learning material / Resources
 =============================
-Leaflet
+##Leaflet
 -------
-Learning material:
-    http://leafletjs.com/examples.html
+### Learning material: http://leafletjs.com/examples.html
 
-API reference:
-    http://leafletjs.com/reference.html
+### API reference: http://leafletjs.com/reference.html
 
 Explore
 =======
-Exploration material (use these if you want to learn more)
-----------------------------------------------------------
+##Exploration material (use these if you want to learn more)
 
-To learn more about Kathmandu Living Labs
------------------------------------------
+### To learn more about Kathmandu Living Labs
 www.kathmandulivinglabs.org
 www.kathmandulivinglabs.org/news
 www.kathmandulivinglabs.org/blog
@@ -32,8 +28,7 @@ facebook.com/kathmandulivinglabs
 Twitter handle:
 @ktmlivinglabs
 
-Google (or yahoo or bing or whatever) search keywords for exploration:
----------------------------------------------------------------------
+### Google (or yahoo or bing or whatever) search keywords for exploration:
     kathmandu living labs
     open cities project
     irevolution.net
