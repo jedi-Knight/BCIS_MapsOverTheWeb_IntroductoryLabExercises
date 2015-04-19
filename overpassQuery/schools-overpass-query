@@ -1,0 +1,17 @@
+/* (This is an example of a comment)
+Following is an example Overpass query. 
+Try it out by.. 
+..drawing a bounding box around a place on the map (Kathmandu for example),
+..and pressing the Run button above!
+You can find more examples with the Load tool.
+*/
+
+way
+  [amenity=school]
+  ({{bbox}});
+  
+/*added by overpass-turbo's auto repair feature*/
+(._;>;);
+/*end of auto repair*/
+
+out meta;      //returns meta-data such as object's id in OpenStreetMap, username of the object's author, timestamp of object's creation and changeset id..
